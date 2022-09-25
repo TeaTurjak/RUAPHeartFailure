@@ -11,4 +11,4 @@
 
 ### Preview:
 
-<img src="https://raw.githubusercontent.com/TeaTurjak/RUAPHeartFailure/main/preview.PNG?token=GHSAT0AAAAAABZD7WQ5MC3FF3DCZOBUZ2R2YZPF2GA" width=30% height=30%>
+<img src="https://raw.githubusercontent.com/TeaTurjak/RUAPHeartFailure/main/preview.PNG" width=30% height=30%>
